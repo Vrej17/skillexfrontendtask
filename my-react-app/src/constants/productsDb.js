@@ -1,0 +1,48 @@
+export const productsDb = [
+  {
+    id: 1,
+    name: "Wireless Headphones",
+    category: "Electronics",
+    brand: "Brand A",
+    price: 99.99,
+    rating: 4.5,
+    imageUrl:
+      "https://burst.shopifycdn.com/photos/wireless-headphones.jpg?exif=0&iptc=0",
+  },
+  {
+    id: 2,
+    name: "Bluetooth Speaker",
+    category: "Electronics",
+    brand: "Brand B",
+    price: 49.99,
+    rating: 4.0,
+    imageUrl: "https://www.sencor.com/getmedia/53d54418-3de4-4fe8-a503-5edb74cac646/35059173.jpg.aspx?width=2100&height=2100&ext=.jpg",
+  },
+  {
+    id: 3,
+    name: "Running Shoes",
+    category: "Footwear",
+    brand: "Brand C",
+    price: 59.99,
+    rating: 4.2,
+    imageUrl: "https://cdn.thewirecutter.com/wp-content/media/2023/09/running-shoes-2048px-5960.jpg",
+  },
+  {
+    id: 4,
+    name: "Smartphone",
+    category: "Electronics",
+    brand: "Brand D",
+    price: 499.99,
+    rating: 4.8,
+    imageUrl: "https://i.guim.co.uk/img/media/2ce8db064eabb9e22a69cc45a9b6d4e10d595f06/392_612_4171_2503/master/4171.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=45b5856ba8cd83e6656fbe5c166951a4",
+  },
+  {
+    id: 5,
+    name: "Leather Jacket",
+    category: "Clothing",
+    brand: "Brand E",
+    price: 199.99,
+    rating: 4.7,
+    imageUrl: "https://www.voganow.com/cdn/shop/products/BBGJ-1113-01_7.jpg?v=1671019720",
+  },
+];
